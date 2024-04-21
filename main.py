@@ -11,7 +11,7 @@ class LoginWindow(tk.Tk):
         self.configure(background="#f0f0f0")
 
         background_image = Image.open("background.jpg")
-        background_image = background_image.resize((400, 300), Image.LANCZOS)
+        background_image = background_image.resize((1920, 1080), Image.LANCZOS)
         self.background_photo = ImageTk.PhotoImage(background_image)
         background_label = tk.Label(self, image=self.background_photo)
         background_label.place(relwidth=1, relheight=1)
