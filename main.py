@@ -31,8 +31,8 @@ class OptionsWindow(ctk.CTk):
         ctk.CTkComboBox(master=self, values=["Caretaker 1", "Caretaker 2", "Caretaker 3"]).pack(pady=20, padx=20)
         ctk.CTkEntry(master=self, placeholder_text="Write your task").pack(pady=10, padx=20)
         ctk.CTkRadioButton(master=self, text="Confirm the option").pack(pady=10, padx=20)
-        ctk.CTkButton(master=self, text="Send").pack(pady=10, padx=20)
         ctk.CTkSwitch(master=self, text="Get notification").pack(pady=10, padx=20)
+        ctk.CTkButton(master=self, text="Send").pack(pady=10, padx=20)
 
 if __name__ == "__main__":
     app = App()
