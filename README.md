@@ -19,7 +19,7 @@ We have developed an innovative application tailored for individuals with disabi
 We welcome contributions from developers, researchers, and enthusiasts passionate about accessibility and assistive technologies. Feel free to fork the repository, submit pull requests, or open issues to share ideas, report bugs, or suggest improvements.
 
 **Contact:**
-For inquiries, feedback, or collaboration opportunities, please contact [saadkhurshidqureshi@gmail.com].
+For inquiries, feedback, or collaboration opportunities, please contact saadkhurshidqureshi@gmail.com.
 
 **Acknowledgments:**
 We extend our gratitude to (https://github.com/Microsoft-Club) for their support and resources in developing this application
