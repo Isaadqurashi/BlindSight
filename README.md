@@ -22,7 +22,7 @@ We welcome contributions from developers, researchers, and enthusiasts passionat
 For inquiries, feedback, or collaboration opportunities, please contact saadkhurshidqureshi@gmail.com.
 
 **Acknowledgments:**
-We extend our gratitude to (https://github.com/Microsoft-Club) for their support and resources in developing this application
+We extend our gratitude to https://github.com/Microsoft-Club for their support and resources in developing this application
 
 **References:**
 - https://www.mayoclinic.org/tests-procedures/eeg/about/pac-20393875#:~:text=An%20electroencephalogram%20(EEG)%20is%20a,the%20time%2C%20even%20during%20asleep.
